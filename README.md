@@ -7,4 +7,3 @@ Install dependencies
 Run the app in the development mode
 
     npm start
-# MovieStreamApp
